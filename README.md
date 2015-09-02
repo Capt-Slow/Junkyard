@@ -48,6 +48,7 @@ The Cable Modem Hacking Repo.
 ###Videos:
 - [Sniffing Cable Modems](https://www.youtube.com/watch?v=7a_x10qi4Cs)
 - [Hacking DOCSIS For Fun and Profit ](https://www.youtube.com/watch?v=aaaJ86K-ovE)
+- [The ARRIStocrats: Cable Modem Lulz](https://www.youtube.com/watch?v=jGUyOYgYoQQ)
 - [Free Anonymous Internet Using Modified Cable Modems](https://www.youtube.com/watch?v=Gkv2ZpuFKpU)
 
 ###Posts:
@@ -83,6 +84,7 @@ The Cable Modem Hacking Repo.
 - [Arris VAP2500 - Authentication Bypass(2014)](https://www.exploit-db.com/exploits/35372/)
 - [arris_motorola_surfboard_backdoor_xss.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/admin/http/arris_motorola_surfboard_backdoor_xss.rb)
 - [ARRIS DG860A NVRAM Backup Password Disclosure (2013)](https://www.exploit-db.com/exploits/29131/)
+- [Thomson Wireless VoIP Cable Modem - Authentication Bypass](https://www.exploit-db.com/exploits/38067/)
 
 ###Websites:
 - [wikidevi](https://wikidevi.com/wiki/Main_Page)
@@ -117,6 +119,9 @@ The Cable Modem Hacking Repo.
 - [What is a SPI ? (Wikipedia)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus)
 - [Who is Cox Communications ?](https://en.wikipedia.org/wiki/Cox_Communications)
 - [Who is Bright House Networks ?](https://en.wikipedia.org/wiki/Bright_House_Networks)
+
+###Contribute:
+- Send a pull request of a Cable Modem firmware image that isn't already on the list.
 
 ###Donations:
 - 17vorVqtJqbDaN6ZC6UGE7UwGC4QVmDNMh
